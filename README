@@ -11,5 +11,5 @@ This will symlink all of the files in ~/dotfiles to ~.
 ### Install the following:
 
 `
-brew install eza fzf bat
+brew install eza fzf bat neovim zoxide
 `

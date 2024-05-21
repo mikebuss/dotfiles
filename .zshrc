@@ -150,7 +150,6 @@ eval "$(pyenv init --path)"
 # Finish pyenv init
 
 source ~/.aliases
-source ~/dotfiles/scripts/fzf-git.sh
 
 # ---- Eza (better ls) -----
 
